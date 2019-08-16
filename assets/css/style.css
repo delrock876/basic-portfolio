@@ -1,0 +1,114 @@
+header {
+  background-color: #ffffff;
+  margin:0;
+  width: 100%;
+  height: 80px;
+  display: flex;
+}
+
+body{
+  height: 100%;
+   background: url(https://www.toptal.com/designers/subtlepatterns/patterns/circles-dark.png);
+}
+
+.name {
+  color: #ffffff;
+  text-align: center;
+  background-color: #4aaaa5;
+  height: 60px;
+  width: 220px;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top:0;
+}
+
+.aboutMeBox{
+  background-color: #ffffff;
+  height: 500px;
+  width: 960px;
+  padding:30px;
+  margin-top: 20px;
+}
+
+ .myName, .aboutMeBox {
+margin-left: 450px;
+} 
+
+img{
+  float:left;
+  margin-right: 30px;
+}
+
+li{
+  float:left;
+}
+nav{
+  padding-left: 26%;
+  padding-top:19px;
+}
+
+ul{
+padding: 0;
+margin: 0;
+list-style: none;
+
+}
+
+li a{
+  display: block;
+  text-align: right;
+  padding: 10px;
+  text-decoration: none;
+}
+
+h1{
+  color: #4aaaa5;
+}
+ p{
+   margin-top:0;
+  line-height: 2em;
+ }
+
+ p, li a, form {
+   font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   font-size: 20px;
+   color: #777777;
+ }
+ .line{
+   margin-top:0;
+ }
+
+.footLine{
+  height:5px;
+  width:100%;
+background-color: #4aaaa5;
+bottom: 63;
+}
+ footer{
+   position:absolute;
+   bottom:0;
+   width: 100%;
+ }
+ .foot{
+   padding-bottom:0;
+   height: 60px;
+   background-color: #666666;
+   text-align: bottom;
+ }
+.copyright{
+bottom:0;
+margin-left: 50%;
+position:absolute;
+margin-bottom: 3px;
+text-align: center;
+color: white;
+}
+
+button{
+background-color: #4aaaa5;
+color:white;
+padding: 4px;
+width: 90px;
+}
+
