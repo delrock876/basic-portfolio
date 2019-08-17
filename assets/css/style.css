@@ -120,15 +120,6 @@ width: 90px;
 
 }
 
-.whiteBox{
-   background-color: #ffffff;
-  height: 650px;
-  width: 960px;
-  padding:30px;
-  margin-top: 20px;
-  margin-left:450px;
-}
-
 .gallery {
   margin-top: 20px;
   display: flex;
