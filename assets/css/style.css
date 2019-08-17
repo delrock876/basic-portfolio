@@ -125,6 +125,7 @@ width: 90px;
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
+  padding-right: 200px;
 }
 
 .photo{
